@@ -2648,12 +2648,14 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   line-height: 6rem;
   padding: 0 3rem;
   width: 100%;
-  background: #f9a828;
-  color: #000000;
+  /*background: #f9a828;*/
+  background: #510a0a;
+  color: #ffffff;
   margin-top: .6rem;
 }
 #contact button.submitform:hover, #contact button.submitform:focus {
-  background: #f89e0f;
+  /*background: #f89e0f;*/
+  background: #6b1111;
 }
 
 #message-warning, #message-success {
